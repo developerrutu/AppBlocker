@@ -21,6 +21,7 @@ No complicated setups, no heavy background lag—just pure productivity.
 ​📥 How to Install & Download
 
 ​[!IMPORTANT]
+
 •Follow the clean installation steps below instead.
 
 ​•Scroll down to the Releases section on the right sidebar (or scroll down past this text on mobile).
