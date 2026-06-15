@@ -4,6 +4,7 @@ Whether you are studying, working, or trying to build better habits, AppBlocker 
 
 
 Key Features:
+
 • Fast & Simple Setup: Add and restrict apps from your directory in seconds.
 • Custom Block Screen: Stay motivated with a personalized focus screen when blocked apps are opened.
 • Pure Performance: A lightweight engine that runs smoothly without draining your device battery.
